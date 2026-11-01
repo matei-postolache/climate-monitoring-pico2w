@@ -1,0 +1,14 @@
+build/
+bin/
+*.uf2
+*.elf
+*.bin
+*.hex
+*.map
+.vscode/
+.idea/
+.DS_Store
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
